@@ -19,7 +19,7 @@ content:
     - url: https://github.com/Luftfartsverket/reqstool-java-annotations
       branches: HEAD
       start_path: docs
-    - url: https://github.com/Luftfartsverket/reqstool-java-maven-plugin-annotations
+    - url: https://github.com/Luftfartsverket/reqstool-java-maven-plugin
       branches: HEAD
       start_path: docs
     - url: https://github.com/Luftfartsverket/reqstool-python-decorators
