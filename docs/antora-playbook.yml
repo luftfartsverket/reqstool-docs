@@ -6,7 +6,7 @@ runtime:
 site:
   title: Requirements Tool
   url: https://github.com/Luftfartsverket/reqstool-docs
-  start_page: reqstool-docs::index.adoc
+  start_page: reqstool-client::index.adoc
 
 content:
   sources:
