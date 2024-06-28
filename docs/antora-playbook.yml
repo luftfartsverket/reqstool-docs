@@ -6,7 +6,7 @@ runtime:
 site:
   title: Requirements Tool
   url: https://github.com/Luftfartsverket/reqstool-docs
-  start_page: reqstool-client::index.adoc
+  start_page: reqstool-docs::index.adoc
 
 content:
   sources:
@@ -38,7 +38,7 @@ asciidoc:
     idprefix: ""
     idseparator: "-"
     page-pagination: ""
-    kroki-server-url: https://kroki.lfv.se
+    kroki-server-url: https://kroki.io
     kroki-fetch-diagram: true
     allow-uri-read: true
     sectnumlevels: 4
